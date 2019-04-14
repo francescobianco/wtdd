@@ -6,3 +6,7 @@ questo in fase di svilippo permette lo sviluppatore di evitare di rieseguire i t
 creando un processo di sviluppo TDD molto fluido
 
 "wd" Watch Development
+
+```bash
+$ wd phpunit 
+```
