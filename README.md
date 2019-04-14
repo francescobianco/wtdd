@@ -5,4 +5,4 @@ questa utility lancia un watcher che osserva il comando di test (es phpunit test
 questo in fase di svilippo permette lo sviluppatore di evitare di rieseguire i test manulamnte  
 creando un processo di sviluppo TDD molto fluido
 
-Watch Development
+"wd" Watch Development
